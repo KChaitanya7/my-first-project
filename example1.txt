@@ -1,2 +1,5 @@
 Git is easy to learn and has a tiny footprint with lightning fast performance.
 Git is easy to learn and has a tiny footprint with lightning fast performance.
+
+
+There is a simple keyboard shortcut for doing so while the command prompt is still open, Alt+F7. Alternatively, the command history is cleared every time you exit and restart the command prompt
